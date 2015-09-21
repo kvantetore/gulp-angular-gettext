@@ -27,7 +27,7 @@
   "dependencies": {
     "through2": "~0.6.3",
     "gulp-util": "~3.0.2",
-    "angular-gettext-tools": "git+https://github.com/kvantetore/angular-gettext-tools.git#8c1cf31afd72158dffbfc03a5d94cd0a8da18d882",
+    "angular-gettext-tools": "git+https://github.com/kvantetore/angular-gettext-tools.git#8c1cf31afd72158dffbfc03a5d94cd0a8da18d88",
     "lodash.isstring": "~2.4.1"
   },
   "devDependencies": {
